@@ -53,5 +53,4 @@ print(assembly1(compress(coder_bwt(text)[0])), coder_bwt(text)[1])
 
 print(3456)
 print(1111)
-print(212)
 
